@@ -21,3 +21,5 @@ open the project files directory's terminal and enter ### `npm start` this will 
 Now here you can use the web application as you like by coding any of the html, css and javascript languages to see their real-time output on the right side of the editor. \
 
 All the errors also will be highlighted(lints) right at the time of the coding itself so you check those and type accordingly. \
+
+All the progress will be saved in the local storage of the running machine so that you can stop and pickup from that point without any hassle. \
